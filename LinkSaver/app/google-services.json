@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150374954583",
+    "project_id": "af-001-21749",
+    "storage_bucket": "af-001-21749.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150374954583:android:b2bee2e00e0db8d4165512",
+        "android_client_info": {
+          "package_name": "com.af.linksaver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBteTovO-aWsziwtJI4Lb88fSCClRsTUfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

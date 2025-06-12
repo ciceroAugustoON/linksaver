@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">LinkSaver</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Minhas Leituras</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Senha</string>
+    <string name="login_button">Entrar</string>
+    <string name="signup_button">Criar conta</string>
+    <string name="forgot_password">Esqueci minha senha</string>
+    <string name="app_logo">Logo do aplicativo</string>
+
+    <!-- Validações -->
+    <string name="error_email_required">Email é obrigatório</string>
+    <string name="error_email_invalid">Email inválido</string>
+    <string name="error_password_required">Senha é obrigatória</string>
+    <string name="error_password_short">Senha deve ter no mínimo 6 caracteres</string>
+
+    <!-- Mensagens -->
+    <string name="login_success">Login realizado com sucesso!</string>
+    <string name="login_failed">Falha no login: %1$s</string>
+    <string name="signup_success">Cadastro realizado com sucesso!</string>
+    <string name="signup_failed">Falha no cadastro: %1$s</string>
+</resources>
